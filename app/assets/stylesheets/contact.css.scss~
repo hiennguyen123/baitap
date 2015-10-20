@@ -1,0 +1,47 @@
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0px 128px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.col-md-12 {
+    width: 100%;
+}
+.col-md-2 {
+    width: 16.6667%;
+}
+.contact-me {
+    margin-bottom: 30px;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    text-indent: -9999px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+.contact-linkedin {
+    background-image: url("..//images/linkedin.svg");
+}
+a {
+    color: #337AB7;
+    text-decoration: none;
+}
+.contact-github {
+    background-image: url("..//images/github.svg");
+}
+.contact-twitter {
+    background-image: url("..//images/bird1.svg");
+}
+.contact-facebook {
+    background-image: url("..//images/facebook.svg");
+}
+.contact-google-plus {
+    background-image: url("..//images/gplus.svg");
+}
+.contact-instagram {
+    background-image: url("..//images/instagram.svg");
+}

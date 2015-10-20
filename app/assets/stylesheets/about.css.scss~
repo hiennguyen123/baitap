@@ -1,0 +1,29 @@
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0px 128px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.col-md-6 {
+    width: 50%;
+}
+
+.col-md-6 {
+    width: 50%;
+}
+h3 {
+    font-size: 36px;
+}
+p {
+    margin: 0px 0px 10px;
+}
+.about-img {
+    width: 65%;
+    overflow: hidden;
+margin-left: 150px;
+margin-top:35px;
+}
+
