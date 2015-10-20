@@ -63,7 +63,7 @@ $(document).ready(function()
         <div class="slideshow">
               <div><a href="#"><img src="..//images/slide1.jpg"/></a></div>
               <div><a href="#"><img src="..//images/slide2.jpg"/></a></div>
-              <div><a href="#"><img src="..//images/slide3.jpg" /></a></div>
+              <div><a href="#"><img src="..//images/slide3.jpg"/></a></div>
               <div><a href="#"><img src="..//images/slide4.jpg"/></a></div>
               <div><a href="#"><img src="..//images/slide5.jpg"/></a></div>
       </div>
